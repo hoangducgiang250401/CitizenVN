@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/citizen/api/ApiAccount.java=UTF-8
+encoding//src/main/java/com/citizen/controller/Login.java=UTF-8
+encoding//src/main/java/com/citizen/filler/AuthorizationFilter.java=UTF-8
+encoding//src/main/webapp/index.jsp=UTF-8
+encoding//src/main/webapp/views/jsp/common/header.jsp=UTF-8
+encoding//src/main/webapp/views/jsp/common/nav.jsp=UTF-8
+encoding//src/main/webapp/views/jsp/home.jsp=UTF-8
