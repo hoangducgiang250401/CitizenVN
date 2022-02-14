@@ -4,13 +4,13 @@ Mô tả: Web điều tra, phân tích dân số Việt Nam</br>
 <b>PHÁT TRIỂN ỨNG DỤNG WEB</b></br>
 </br>
 Thành viên : Hoàng Đức Giang 19020270</br>
-Phạm Trung Hiếu 19020290</br>
-Ngô Tiến Bình 19020225</br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;Phạm Trung Hiếu 19020290</br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;Ngô Tiến Bình 19020225</br>
 Phân công : Front end : Phạm Trung Hiếu</br>
-Back end : Ngô Tiến Bình</br>
-Full Stack : Hoàng Đức Giang</br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;Back end : Ngô Tiến Bình</br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;Full Stack : Hoàng Đức Giang</br>
 CHỨC NĂNG CHÍNH HỆ THỐNG</br>
-A1 :
+&emsp;&emsp;A1 :
 - Thêm tài khoản A2
 - Cấp quyền thêm sửa xoá cho A2
 - Xem danh sách, phân tích số liệu và tìm kiếm người dân bất kì của
